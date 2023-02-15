@@ -9,7 +9,7 @@ async function bootstrap() {
   const config = new DocumentBuilder()
     .setTitle('Adventour')
     .setDescription(
-      'Adevntour REST API, Rebuilt using Nest-JS, Initial was using NodeJS, ExpressJS',
+      'Adventour REST API, Rebuilt using Nest-JS, Initial was using NodeJS, ExpressJS',
     )
     .setVersion('1.0')
     .addTag('cats')
